@@ -31,7 +31,7 @@ View javascript comments in ```server.js```.
 ## Demonstration
 
 See demo.mp4
-[![Demo.mp4](public\assets\images\thumbnail.png)](https://youtu.be/xcIKzsCAJ9g)
+[![Demo.mp4](public/assets/images/thumbnail.png)](https://youtu.be/xcIKzsCAJ9g)
 
 
 ## Authors
